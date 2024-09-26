@@ -10,12 +10,19 @@
 یکی از لینک های زیر رو اول کپی میکنید
 
 https://kayhgng.github.io/proxy/proxyproject/France.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Canada.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Netherland.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Singapore.pac
+
 https://kayhgng.github.io/proxy/proxyproject/UK.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Germany.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-East.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 
 
@@ -29,12 +36,19 @@ https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 و اسکریپت آدرس رو آدرسی که کپی کردیم میزاریم
 
 https://kayhgng.github.io/proxy/proxyproject/France.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Canada.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Netherland.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Singapore.pac
+
 https://kayhgng.github.io/proxy/proxyproject/UK.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Germany.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-East.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 
 سپس سیو میکنیم و Automaticly detect settings رو میزنید و میتونید بعد بیاید توی کرم یا مرورگر دیگه ای و سایت هارو بدون فیلتر شکن و فقط با استفاده از پروکسی بازکنید.
@@ -43,12 +57,19 @@ https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 اول از همه یکی از آدرس های زیر رو کپی میکنید
 
 https://kayhgng.github.io/proxy/proxyproject/France.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Canada.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Netherland.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Singapore.pac
+
 https://kayhgng.github.io/proxy/proxyproject/UK.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Germany.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-East.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 
 سپس وارد آدرس گیتهاب زیر میشوید و نرم افزار Cromite رو دانلود و نصب میکنید
@@ -66,12 +87,19 @@ https://github.com/uazo/cromite/releases/tag/v129.0.6668.59-bbcb812cffa4e2815760
 یکی از لینک های زیر را
 
 https://kayhgng.github.io/proxy/proxyproject/France.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Canada.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Netherland.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Singapore.pac
+
 https://kayhgng.github.io/proxy/proxyproject/UK.pac
+
 https://kayhgng.github.io/proxy/proxyproject/Germany.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-East.pac
+
 https://kayhgng.github.io/proxy/proxyproject/US-West.pac
 
 رو جایگذاری میکنید و سپس Apply را میزنید و تمام.
